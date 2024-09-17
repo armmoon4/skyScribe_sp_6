@@ -171,6 +171,7 @@ nav {
 }
 
 
+
 @media (width > 768px) {
   nav {
     padding: 2rem 1rem;
@@ -210,8 +211,4 @@ nav {
     text-align: left;
   }
 
-  .header__image {
-    grid-area: 1/2/2/3;
-  }
-
-  /* sec */
+}
