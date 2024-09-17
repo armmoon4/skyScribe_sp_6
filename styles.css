@@ -211,4 +211,6 @@ nav {
     text-align: left;
   }
 
+.header__image{
+  grid-area: 1/2/2/3;
 }
