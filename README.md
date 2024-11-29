@@ -30,7 +30,7 @@ SkyScribe/
 ├── login.html              # Login page
 └── README.md               # Project documentation
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Frontend:
 
     HTML5: For structuring content.
