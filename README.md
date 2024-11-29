@@ -30,7 +30,7 @@ SkyScribe/
 ├── login.html              # Login page
 └── README.md               # Project documentation
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 Frontend:
 
     HTML5: For structuring content.
@@ -43,7 +43,7 @@ Backend:
     Firebase Authentication: For secure user authentication.
     Firebase Real-Time Database: For dynamic data handling and storage.
 
-## 📸 Sneak Peek
+ 📸 Sneak Peek
 Home Page
 
 Discover the potential of drones with our sleek and engaging landing page.
@@ -57,7 +57,7 @@ Blog
 
 Read articles on mastering aerial photography, search-and-rescue advancements, and the future of drone deliveries.
 
-## 🔧 How to Run the Project
+🔧 How to Run the Project
 
     Clone the Repository:
 
@@ -78,21 +78,21 @@ Live Preview:
 
     Host the project on Firebase Hosting or any web server to enable database connectivity.
 
-## 🔒 Security and Authentication
+🔒 Security and Authentication
 
 SkyScribe ensures secure user interaction through Firebase Authentication. User credentials are securely stored and managed by Firebase, preventing unauthorized access.
-## 💡 Future Enhancements
+💡 Future Enhancements
 
     E-Commerce Integration: Allow users to purchase drones directly from the platform.
     Drone Simulator: Interactive simulation for users to test drone controls.
     Advanced Analytics: Integrate drone performance and usage analytics with Firebase BigQuery.
     Community Forums: Create a space for drone enthusiasts to connect and share knowledge.
 
-## 👥 Contributors
+👥 Contributors
 
     [Abdur Rahman Moon]: Full-stack developer and project lead.
 
-## 📞 Contact
+📞 Contact
 
 For queries or suggestions, feel free to reach out:
 
